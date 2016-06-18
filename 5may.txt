@@ -1,0 +1,21 @@
+Public class
+{
+	public static void main(String args[])
+	{
+	
+	}
+
+}
+given 6X6 2D arrat 
+We define an hour glass in [a]
+ to be  subset of values with indicates falling in this pattern in [A'sgraphical representation]
+ a b c
+   d
+ e f h
+ there 16 hour glasses in A, and an hour hour glass sum is the sum of an hour glass value
+ 
+ task 
+ calulate  the sumof every hourglass in A then print the maximum hur glass sum
+ 
+ 
+ 
